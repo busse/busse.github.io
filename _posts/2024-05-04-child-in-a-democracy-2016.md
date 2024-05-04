@@ -11,7 +11,7 @@ I set the alt description on the image below to be:
 
 > Black and white photograph of a child wearing a VR headset, reaching in their game while in real life Dorothea Lange's Children in a Democracy can be seen on the wall.
 
-I sometimes meditate on this photo. My history with Lange's _Children in a Democracy_ is a topic for a future post. For now, this is appropos for the first "daily" post here.
+I sometimes meditate on this photo. My history with Lange's _Children in a Democracy_ is a topic for a future post. For now, this is apropos for the first "daily" post here.
 
 ## Full Image
 
