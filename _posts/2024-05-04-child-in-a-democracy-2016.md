@@ -1,13 +1,11 @@
 ---
-title: "[PHOTO] Child in a Democracy 2016"
+title: "Child in a Democracy 2016"
 date: 2024-05-04
 categories: Daily
 tags: photos history technology
 image: /assets/240504-child-in-a-democracy-2016.jpg
-location: us-ny-richmond
+location: us-va-richmond
 ---
-
-I set the alt description on the image below to be:
 
 > Black and white photograph of a child wearing a VR headset, reaching in their game while in real life Dorothea Lange's Children in a Democracy can be seen on the wall.
 
